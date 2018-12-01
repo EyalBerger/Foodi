@@ -22,6 +22,7 @@ This module requires the following modules/libraries:
 2. Enter your data & settings Excel file name on the Start settings section of main.py
 
 The file needs to have 3 sheets:
+
     1. "data" - 3 columns (in this order) for each point:
                     * "Week" - Point week (this column need to be filled even for one group only use)
                     *  "Name" - Point name (unique name for each row)
