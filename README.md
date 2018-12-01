@@ -2,9 +2,7 @@ Foodi
 
 ## Introduction
 
-Foodi is a program aims helping local Food Aid Non-governmental organizations (NGO), which distribute food baskets to needy people homes on a permanent basis using volonteers, to find the best driving paths in terms of saving driving time.
-Foodi using google API for calculating different volonteers to needy people homes allocations and outputs the best of them. 
-Foodi relies on the Probability theory to do so.
+Foodi is a program that aims to help local Food Aid Non-Governmental Organizations (NGO), which distributes food baskets to needy people's homes on a regular basis with the help of volunteers, to find the best driving paths in terms of saving driving time. Foodi uses google API for checking different allocations of volunteers to distribute the food baskets to the people's homes, and it outputs the best option. Foodi relies on the Probability theory to do so.
 
  ## Requirements
 This module requires the following modules/libraries: 
